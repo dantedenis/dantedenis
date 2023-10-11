@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dantedenis: [my 42school_profile](https://profile.intra.42.fr/users/bstrong)
-- 👀 I’m interested in ***GO, C/C++, java, python***
+- 👀 I’m interested in ***GO, C/C++***
 - 🌱 I’m currently learning **OOP, algorithm, multithreading**
 - 💞️ I’m looking to collaborate on Google, NASA (xD)
 - 📫 How to reach me ***danteevstigneev@yandex.ru***
