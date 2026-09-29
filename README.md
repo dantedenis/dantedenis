@@ -1,2 +1,1 @@
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dantedenis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=dantedenis&layout=donut&langs_count=4&theme=vision-friendly-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=4&theme=vision-friendly-dark)
